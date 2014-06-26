@@ -1,0 +1,15 @@
+{
+  "name": "testing-dummy",
+  "version": "0.0.0",
+  "description": "Testing Dummy",
+  "author": "",
+  "homepage": "",
+  "licenses": [
+    {
+      "url": "about:blank",
+      "type": ""
+    }
+  ],
+  "dependencies": {},
+  "targetDependencies": {}
+}
