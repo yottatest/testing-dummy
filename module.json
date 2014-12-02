@@ -2,8 +2,8 @@
   "name": "testing-dummy",
   "version": "0.0.2",
   "description": "Testing Dummy",
-  "author": "",
-  "homepage": "",
+  "author": "James <james.crosby@arm.com>",
+  "homepage": "http://github.com/ARMmbed/yotta",
   "licenses": [
     {
       "url": "about:blank",
