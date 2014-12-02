@@ -1,6 +1,6 @@
 {
   "name": "testing-dummy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Testing Dummy",
   "author": "James <james.crosby@arm.com>",
   "homepage": "http://github.com/ARMmbed/yotta",
